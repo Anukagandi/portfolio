@@ -32,7 +32,7 @@ const Home = () => {
         <img src="" alt="" />
         </div>
         <div>
-        <img className=" aspect-square object-cover rounded-full" src="../../public/anu.jpg" alt="" />
+        <img className=" aspect-square object-cover rounded-full" src="/anu.jpg" alt="" />
         </div>
       </div>
     </div>
